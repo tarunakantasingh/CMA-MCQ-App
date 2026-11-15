@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield / Ledger Card Silhouette inside 66dp safe zone (coords ~26..82) -->
+    <path
+        android:fillColor="#FFF8FAFC"
+        android:pathData="M34,26 L74,26 C77.3,26 80,28.7 80,32 L80,57 C80,69.5 68.4,78.6 54,83 C39.6,78.6 28,69.5 28,57 L28,32 C28,28.7 30.7,26 34,26 Z" />
+    <!-- Inner subtle inset shield accent -->
+    <path
+        android:fillColor="#FF162552"
+        android:pathData="M36,31 L72,31 C73.7,31 75,32.3 75,34 L75,56.5 C75,66.2 65.5,73.5 54,77.2 C42.5,73.5 33,66.2 33,56.5 L33,34 C33,32.3 34.3,31 36,31 Z" />
+    <!-- Bold Emerald-Cyan Verification Checkmark -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M49.5,62.5 L39.8,52.8 L43.4,49.2 L49.5,55.3 L64.6,40.2 L68.2,43.8 Z" />
+</vector>

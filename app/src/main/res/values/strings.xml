@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CMA Prep</string>
+    <string name="offline_ready_badge">Offline Ready</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_review">Review</string>
+    <string name="nav_creator">Creator</string>
+    <string name="section_foundation">Foundation</string>
+    <string name="section_inter">Inter</string>
+    <string name="section_final">Final</string>
+    <string name="creator_name">Tarunakanta Singh</string>
+    <string name="creator_role">App Creator &amp; CMA Community Builder</string>
+    <string name="creator_email">tarunakantasingh8@gmail.com</string>
+    <string name="contact_form_title">Direct Contact Form</string>
+    <string name="contact_send_email">Send Message</string>
+    <string name="contact_copy_email">Copy Email</string>
+</resources>

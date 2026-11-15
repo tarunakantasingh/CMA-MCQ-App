@@ -1,0 +1,6 @@
+{
+  "name": "CMA Prep",
+  "description": "Offline MCQ practice app for CMA Foundation, Intermediate, and Final exams with sound feedback and non-repeating quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
